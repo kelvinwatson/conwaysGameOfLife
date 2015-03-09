@@ -1,4 +1,6 @@
 # Conway's Game of Life
+Created by: Kelvin Watson<br>
+Date: 11 January 2015<br>
 Description: Implementation of Conway's Game of Life using  static 2-dimensional arrays. Ghost cells enable the illusion of an infinite grid as the program prints oscillating (blinker and beacon), and glider and glider gun (cannon) patterns/configurations, incorporating user-defined time delays to show the different frames.
 
 ##Design Features
