@@ -15,7 +15,7 @@ EXECUTABLE = main
 
 all: ${EXECUTABLE}
 
-${EXECUTABLE} : ${OBJECT} ${HEADER}
+main: ${OBJECT} ${HEADER}
 		${CXX} ${LDFLAGS} ${OBJECT} -o ${EXECUTABLE}
 
 ${OBJECT}: ${SOURCE}
