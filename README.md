@@ -10,9 +10,9 @@ Description: Implementation of Conway's Game of Life using  static 2-dimensional
 - determines which cells are “live” or “dead” after each generation depending on the states of the cells in the previous generation, update the cells, and prints the results to the console
 
 ##Citations
-1. http://www.cplusplus.com/reference/ctime/clock/
-2. http://www.cplusplus.com/forum/unices/10491/
-3. http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-4. http://www.tech.org/~stuart/life/rules.html
-5. http://www.conwaylife.com/wiki/Gun
-6. http://www.cs.umd.edu/class/fall2002/cmsc214/Tutorial/makefile.html
+1. [http://www.cplusplus.com/reference/ctime/clock/](http://www.cplusplus.com/reference/ctime/clock/)
+2. [http://www.cplusplus.com/forum/unices/10491/](http://www.cplusplus.com/forum/unices/10491/)
+3. [http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+4. [http://www.tech.org/~stuart/life/rules.html](http://www.tech.org/~stuart/life/rules.html)
+5. [http://www.conwaylife.com/wiki/Gun](http://www.conwaylife.com/wiki/Gun)
+6. [http://www.cs.umd.edu/class/fall2002/cmsc214/Tutorial/makefile.html](http://www.cs.umd.edu/class/fall2002/cmsc214/Tutorial/makefile.html)
